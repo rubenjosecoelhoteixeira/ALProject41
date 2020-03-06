@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Formação">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2328808854 - Field 1296262074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyField</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field MyField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 1861213814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 1 Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Global Dimension 1 Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 588326355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2 Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Global Dimension 2 Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 2210284121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Currency Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 3692706522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 1385478232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount upper bound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Amount upper bound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 59377687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount lower bound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Amount lower bound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 4159751202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether it is the customers's first entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field First Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 1559741534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Customer Balance - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
